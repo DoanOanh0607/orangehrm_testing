@@ -1,0 +1,24 @@
+{
+   "url": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+   "username": "Admin",
+   "password": "admin123",
+   "browser": "chrome",
+   "timeout": 30,
+   "vacancy": {
+      "vacancy_name": "Automation Tester",
+      "job_title": "Automaton Tester",
+      "description": "Automation Test Is Running",
+      "hiring_manager": "current_login_user",
+      "number_of_position": 1,
+      "active": false,
+      "publish_in_RSS_Feb_and_Web_page": true
+   },
+   "newuser": {
+      "user_role": "Admin",
+      "employee_name": "Linda Anderson",
+      "username": "testuser01",
+      "status": "Enabled",
+      "password": "Test@1234"
+  }
+}
+

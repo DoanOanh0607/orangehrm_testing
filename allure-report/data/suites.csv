@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","3224","test_login","tests","Mon Jul 07 22:09:47 ICT 2025","passed","Mon Jul 07 22:09:50 ICT 2025","TestLogin","login_test","",""
+"","28480","test_recruitment_page_functionality","tests","Mon Jul 07 22:09:56 ICT 2025","passed","Mon Jul 07 22:10:25 ICT 2025","TestRecruit","recruiment_test","",""
+"","3675","test_recruitment_page_functionality","tests","Mon Jul 07 22:09:35 ICT 2025","passed","Mon Jul 07 22:09:39 ICT 2025","TestAdmin","admin_test","",""
