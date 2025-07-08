@@ -20,8 +20,8 @@ jobs:
       fail-fast: false
       matrix:
         suite:
-          - tests/login_test.py
-          - tests/recruitment_test.py
+          - tests/test_api.py
+          - tests/test_manual.py
 
     steps:
       - name: Checkout code
@@ -35,7 +35,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
-          python-version: "3.13.5"
+          python-version: "3.13"
 
       - name: Install dependencies
         run: |
